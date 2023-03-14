@@ -1,3 +1,0 @@
-/home/rituraj/CiPHER/esp_2022_lagori_codes/r1_7seg_disp/build/pioasm/CMakeFiles/pioasm.dir
-/home/rituraj/CiPHER/esp_2022_lagori_codes/r1_7seg_disp/build/pioasm/CMakeFiles/edit_cache.dir
-/home/rituraj/CiPHER/esp_2022_lagori_codes/r1_7seg_disp/build/pioasm/CMakeFiles/rebuild_cache.dir
