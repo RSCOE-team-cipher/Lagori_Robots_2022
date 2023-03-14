@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "float32.h": "c",
+        "int32.h": "c",
+        "gripper_msg.h": "c",
+        "stepper_msg.h": "c",
+        "r2_limit_switch_stepper3.h": "c",
+        "r2_limit_switch_stepper2__functions.h": "c"
+    }
+}
