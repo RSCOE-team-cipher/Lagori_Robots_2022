@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from lagori_robot_msgs/msg/GripperMsg.msg
+// generated code does not contain a copyright notice
+
+
+module lagori_robot_msgs {
+  module msg {
+    struct GripperMsg {
+      int32 one_open;
+
+      int32 one_close;
+
+      int32 two_open;
+
+      int32 two_close;
+
+      int32 three_open;
+
+      int32 three_close;
+    };
+  };
+};
